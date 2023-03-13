@@ -1,0 +1,25 @@
+body { background-color: grey;}
+
+p {
+	border: 2px solid powderblue;}
+
+h1 {
+	color: blue;
+    font-family: verdana;
+    font-size: 300%;}
+
+h2 {
+	color:black;
+	font-family: arial;
+	font-size: 26px ;}
+
+li {margin: 1%;
+   text-transform: capitalize;}
+img {
+	border-radius: 25px;
+	width: 400px; 
+	height: 400px;
+}
+body {
+	background:url("file:///C:/Users/morga/OneDrive%20-%20The%20Community%20College%20of%20Baltimore%20County/CSIT121/lab03/images/mom.jpeg");
+}
