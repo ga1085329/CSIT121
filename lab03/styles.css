@@ -1,11 +1,11 @@
-body { background-image: url(images/mom.jpeg);
+body { background: url(images/mom.jpeg);
 }
 
 p {
-	border: 2px solid powderblue;}
+	border: 2px solid white;}
 
 h1 {
-	color: blue;
+	color: red;
     font-family: verdana;
     font-size: 300%;}
 
@@ -16,6 +16,7 @@ h2 {
 
 li {margin: 1%;
    text-transform: capitalize;}
+
 img {
 	border-radius: 25px;
 	width: 400px; 
