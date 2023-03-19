@@ -28,10 +28,10 @@ img {
 	width: 400px; 
 	height: 400px;
 }
-#wrapper { width:80%
-			margin-left:auto;
+#wrapper { width:100% ;
+			margin-left: auto;
 			margin-right: auto;
-			backgroung-color: white; }
+		}
 
 header {
 	font-size:50px ;
