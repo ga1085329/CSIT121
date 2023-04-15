@@ -31,7 +31,7 @@ img {
 	height: 400px;
   display: block;
   margin-left: 37%;
-  margin-top: -25%;
+  margin-top: -20%;
 
 }
 a:link {
@@ -65,7 +65,7 @@ position: relative;
 main {
 text-align: left;
   position: relative;
-  left: 200px;
+  left:400px;
 }
 
 footer {
@@ -102,6 +102,7 @@ nav {
 main {
   position: relative;
   left: 10px;
+  width:80%;
 }
 
 
