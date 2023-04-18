@@ -1,0 +1,135 @@
+.label {
+     border: 1px solid black;
+     width: 230px;
+}
+#header {
+  text-align: left;
+
+}
+#line {
+  border-bottom: 10px solid black;
+  padding: 0 0 0.25rem 0;
+  font-size: 1rem;
+ margin: .25px;
+}
+ th, td {
+    font-weight: normal;
+    text-align: left;
+    padding: 0.25rem;
+    border-top: 1px solid black;
+    white-space: nowrap;
+}
+
+#small-info {
+  font-size:small ;
+  font-weight: bold;
+}
+
+
+body { background-color: white;
+		margin: 0;
+}
+
+
+h1 {
+	color: red;
+    font-family: verdana;
+    font-size: 300%;
+    text-align: center;
+}
+
+h2 {
+	color:black;
+	font-family: arial;
+	font-size: 25px ;
+  text-align: center;
+ }
+h3 {
+	color: black;
+	font-family: arial;
+	font-size: 30px;
+
+}
+
+li {margin: 1%;
+   text-transform: capitalize;}
+
+img {
+	border-radius: 25px;
+	width: 400px; 
+	height: 400px;
+  display: block;
+  margin-left: 37%;
+  margin-top: -20%;
+
+}
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:visited {
+  color: yellow;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+header {
+  text-align: center;
+  background-color: red;
+  padding: 20px;
+  font-size: 50px;
+  font-weight: bold;
+  width: 100%;
+}
+nav {
+position: relative;
+  left: 100px;
+  font-size: 20px;
+  height: 500%;
+ }
+
+main {
+text-align: left;
+  position: relative;
+  left:400px;
+}
+
+footer {
+  position: relative;
+  top: 75px;
+  text-align: center;
+  background-color: red;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+
+header
+{
+  text-align: center;
+  width: 100%;
+  font-size: 250%;
+}
+img {
+ display: block;
+ margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+background-position: center;
+}
+nav {
+  text-align: left;
+  position: relative;
+  margin-left: auto;
+}
+
+main {
+  position: relative;
+  left: 10px;
+  width:80%;
+}
