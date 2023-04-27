@@ -1,0 +1,12 @@
+h2 
+{
+margin: 0 0 0 20rem;
+}
+body {
+	background: yellow;
+	font-family: Arial;
+	max-width: 50%;
+}
+li {
+	font-weight: bold;
+}
