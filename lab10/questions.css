@@ -5,8 +5,11 @@ margin: 0 0 0 20rem;
 body {
 	background: yellow;
 	font-family: Arial;
-	max-width: 50%;
+	max-width: 70%;
 }
-li {
+dt {
 	font-weight: bold;
+}
+dl {
+	line-height: 2rem;
 }
