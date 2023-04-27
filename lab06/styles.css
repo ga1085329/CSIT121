@@ -1,24 +1,24 @@
 body { background-color: white;
-		margin: 0;
+    margin: 0;
 }
 
 h1 {
-	color: red;
+  color: red;
     font-family: verdana;
     font-size: 300%;
     text-align: center;
 }
 
 h2 {
-	color:black;
-	font-family: arial;
-	font-size: 25px ;
+  color:black;
+  font-family: arial;
+  font-size: 25px ;
   text-align: center;
  }
 h3 {
-	color: black;
-	font-family: arial;
-	font-size: 30px;
+  color: black;
+  font-family: arial;
+  font-size: 30px;
 
 }
 
@@ -26,9 +26,9 @@ li {margin: 1%;
    text-transform: capitalize;}
 
 img {
-	border-radius: 25px;
-	width: 400px; 
-	height: 400px;
+  border-radius: 25px;
+  width: 400px; 
+  height: 400px;
   display: block;
   margin-left: 37%;
   margin-top: -20%;
@@ -56,7 +56,7 @@ header {
   width: 100%;
 }
 nav {
-position: relative;
+  position: relative;
   left: 100px;
   font-size: 20px;
   height: 500%;
@@ -65,7 +65,7 @@ position: relative;
 main {
 text-align: left;
   position: relative;
-  left:400px;
+  left:250px;
 }
 
 footer {
@@ -78,7 +78,7 @@ footer {
   font-weight: bold;
 }
 
-@media (max-width: 768px) {
+@media only screen and (max-width: 768px) {
 
 header
 {
@@ -104,9 +104,4 @@ main {
   left: 10px;
   width:80%;
 }
-
-
-
-
-
- 
+}
